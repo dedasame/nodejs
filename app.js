@@ -29,6 +29,36 @@ console.log(a)
 */
 
 //? THIRD PARTY MODULLERLE İLGİLİ KISIM
+/*
+//node-fetch -> ES
+//express -> Commonjs
+
+//Third Party Modülleri
 
 
+//!node-fetch ES
+
+import fetch from "node-fetch"
+fetch("")
+
+//!express Commonjs
+ 
+import * as express from "express"
+//express.
+
+//ES modülde common çalıştırabilirken commonjs de ES çalıştıramayız
+
+
+
+//?KOŞULA BAĞLI IMPORT ETME
+
+var a = 5
+if(a == 5){
+    var response = await import("./userData.js")
+    console.log(response.default)
+
+}
+
+
+*/
 

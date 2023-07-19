@@ -19,11 +19,11 @@ var data2 = 15
 var data3 = 20
 
 export {data1,data2,data3} //değişkenlerin her birini bir anda export etmenin yöntemi
+
+
+export default 5
+
 */
-
-
-
-
 
 
 
