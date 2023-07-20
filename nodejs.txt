@@ -1,0 +1,18 @@
+Popüler Paketler
+Bugün Node.js için en popüler paketlerden bazıları şunlardır:
+
+Express: Express.js veya basitçe Express, Node.js için Sinatra’dan ilham alan bir web geliştirme frameworküdür ve günümüzde mevcut Node.js uygulamalarının çoğu için fiili standarttır.
+MongoDB: MongoDB’nin resmi sürücüsü. Node.js’deki MongoDB nesne veritabanları için API sağlar.
+Socket.io: Socket, gerçek zamanlı, çift yönlü ve olaya dayalı iletişim sağlar.
+Lodash: Lodash, diziler, sayılar, nesneler, dizeler vb. ile çalışmanın zorluğunu ortadan kaldırarak JavaScript’i kolaylaştırır.
+Moment: Tarihleri ​​ayrıştırmak, doğrulamak, işlemek ve biçimlendirmek için bir JavaScript tarih kitaplığıdır.
+Forever: Belirli bir betiğin sürekli (yani sonsuza kadar) çalışmasını sağlamak için basit bir CLI aracı. Beklenmeyen hatalar karşısında Node.js sürecinizi çalışır vaziyette tutar.
+Async: Asenkron JavaScript ile çalışmak için basit, güçlü işlevler sağlayan bir yardımcı program modülüdür.
+Redis: Redis veritabanı entegrasyonunu desteklemek için bir istemci kitaplığıdır.
+Mocha: Node.js ve tarayıcı için temiz, esnek bir JavaScript test frmeworküdür.
+Passport: Node.js için basit, göze batmayan kimlik doğrulama sağlar. Pasaportun tek amacı istekleri doğrulamaktır.
+
+
+Node.js non-blocking(asenkron) olarak çalıştırdığı için zaman kullanımı konusunda çok başarılıdır.
+
+
