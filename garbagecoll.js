@@ -17,14 +17,19 @@
 //* Hoisting ve TDZ
 
 //Hoist : değişkenler üste alınıyor -> declare tanımlıyor
+//sadece var undefined olarak init ediliyor en üstte.
+
 
 //Declare - Initialization - Assignment 
 let a = 4  //declare  - > //initialization değer atamak
 a = 1 //assignment  -> değeri değiştirmek
 console.log(a)
 
+//TDZ - Temporel Dead Zone 
+//başlangıçtan değişkenin initialize edildiği kısma kadar olan kısma denir.
 
 
+//Önce değişkenler sonra fonskiyonlar hoist edilir.
 
 
 
